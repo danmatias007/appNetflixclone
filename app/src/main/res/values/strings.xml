@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Netflix app</string>
+    <string name="movies">Movies</string>
+    <string name="series">Series</string>
+    <string name="my_list">My List</string>
+    <string name="exciting">Exciting</string>
+    <string name="thriller">Thriller</string>
+    <string name="sinister">Sinister</string>
+    <string name="watch">Watch</string>
+    <string name="details">Details</string>
+    <string name="releases">RELEASES</string>
+    <string name="List">My List</string>
+    <string name="capa">capa</string>
+    <string name="netflixlogo">netflixlogo</string>
+    <string name="movie2">movie2</string>
+    <string name="movie3">movie3</string>
+    <string name="logodragon">logodragon</string>
+    <string name="Capa">capamain</string>
+    <string name="movie1">movie1</string>
+</resources>
